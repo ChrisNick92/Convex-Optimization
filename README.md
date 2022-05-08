@@ -1,1 +1,2 @@
-# Convex-Optimization
+# Series of Exercises in Convex Optimization
+
